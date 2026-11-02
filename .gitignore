@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+runs/
+outputs/*
+!outputs/.gitkeep
+data/images/**/*.png
+data/images/**/*.jpg
+data/images/**/*.jpeg
+data/labels/**/*.txt
+data/unlabelled/
+*.pt
