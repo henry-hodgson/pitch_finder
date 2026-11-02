@@ -1,6 +1,6 @@
 # Football Pitch Detector — aerial imagery ML project
 
-Train a custom YOLO object detector to find association-football (soccer) pitches in aerial imagery. It supports image prediction, CSV exports, RGB GeoTIFF tiling and candidate GeoJSON exports.
+Train a custom YOLO object detector to find association-football pitches in aerial imagery. It supports image prediction, CSV exports, RGB GeoTIFF tiling and candidate GeoJSON exports.
 
 ## Important: imagery rights
 Do **not** bulk-download Google Maps satellite tiles or use Google Maps imagery to train, validate or test ML models unless you have explicit permission. Google Maps Platform terms restrict this. Use imagery licensed for your intended ML use. [OpenAerialMap](https://openaerialmap.org/) provides openly licensed aerial imagery (check metadata and attribution for each source). Alternatively use aerial imagery you own or have permission to use. Do not assume ordinary OpenStreetMap basemap tiles are aerial images or free of usage restrictions.
