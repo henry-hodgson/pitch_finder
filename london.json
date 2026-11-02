@@ -1,0 +1,7 @@
+{
+  "name": "London pilot (broad search envelope)",
+  "bbox_wgs84": {"south": 51.28, "west": -0.52, "north": 51.70, "east": 0.34},
+  "pilot_areas": ["Hackney Marshes", "Regent's Park", "Wimbledon Common"],
+  "class_names": ["football_pitch"],
+  "notes": "Bounding box is deliberately approximate and extends beyond the Greater London boundary. Use a true GLA boundary polygon for authoritative London-only filtering."
+}
